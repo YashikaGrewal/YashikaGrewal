@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Yashika Grewal 👋
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Python, Java
+- 🔭 I’m currently working as Data Engineer Intern at Maruti Suzuki India Limited
+- 🌱 My technical skills include Python, Machine Learning, Data Analysis, Java , DSA, Excel, AWS
 - 📫 You can reach me at my mail: yashikagrewal8@gmail.com
-- 📚 I also like to read novels. Currently I'm reading 'Around The World in 80 Days'
+- 📚 I also like to read novels. Currently I'm reading 'Stumbling into Infinity'
 
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
